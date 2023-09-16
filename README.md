@@ -1,6 +1,6 @@
 # example.nvim
 
-An example plugin that says hello when you press `<Leader>h`.
+An example plugin that says hello when you press `<Leader>h`
 
 ## 📦 Installation
 
